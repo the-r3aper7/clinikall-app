@@ -5,14 +5,15 @@ A React Native Expo application for e-commerce product listing and delivery esti
 ## Screenshots
 <div align="center">
    <div>
-      <img src="https://github.com/user-attachments/assets/886559a3-3a55-45f3-8ff8-828de222f174" width="30%" alt="IMG_20241027_235248_915" />
-      <img src="https://github.com/user-attachments/assets/a0758cfa-9f80-42c5-b6d1-b8197b3a34ac" width="30%" alt="IMG_20241027_235249_015" />
-      <img src="https://github.com/user-attachments/assets/12a56e65-d4db-49e5-9bb1-6bad3542b784" width="30%" alt="IMG_20241027_235249_043" />
       <img src="https://github.com/user-attachments/assets/8f31ed8e-5e7f-4ac8-afe0-6c3e96234c4a" width="30%" alt="IMG_20241027_235248_641" />
       <img src="https://github.com/user-attachments/assets/b8821dd3-1241-4b53-b507-5c2b7a6cddf3" width="30%" alt="IMG_20241027_235248_207" />
+      <img src="https://github.com/user-attachments/assets/a0758cfa-9f80-42c5-b6d1-b8197b3a34ac" width="30%" alt="IMG_20241027_235249_015" />
+      <img src="https://github.com/user-attachments/assets/12a56e65-d4db-49e5-9bb1-6bad3542b784" width="30%" alt="IMG_20241027_235249_043" />
       <img src="https://github.com/user-attachments/assets/01d3ff36-1705-4c7f-8642-2ea9582ee7bd" width="30%" alt="IMG_20241027_235248_297" />
-      <img src="https://github.com/user-attachments/assets/469941d6-8bfd-4445-8b9a-368064ce0083" width="30%" alt="IMG_20241027_235248_781" />
+      <img src="https://github.com/user-attachments/assets/a1aa0ef8-637d-4a47-9885-81794af71bae" width="30%" alt="IMG_20241027_235248_641" />
+      <img src="https://github.com/user-attachments/assets/0657433a-5dfc-4ae5-a393-bce96d840a2b" width="30%" alt="IMG_20241027_235248_641" />
       <img src="https://github.com/user-attachments/assets/faf6670c-697c-4ad5-a97c-86ed54270ce3" width="30%" alt="IMG_20241027_235248_831" />
+      <img src="https://github.com/user-attachments/assets/469941d6-8bfd-4445-8b9a-368064ce0083" width="30%" alt="IMG_20241027_235248_781" />
    </div>
 </div>
 
@@ -53,7 +54,7 @@ A React Native Expo application for e-commerce product listing and delivery esti
 ```
 clinikally-app/
 ├── src/
-│   ├── components/    # Reusable UI components
+│   ├── components/   # Reusable UI components
 │   ├── context/      # React Context providers
 │   ├── services/     # API service integrations
 │   ├── theme/        # Theme configuration files
@@ -61,7 +62,7 @@ clinikally-app/
 │   ├── screens/      # Application screens
 │   └── navigation/   # Navigation configuration
 ├── assets/           # Static assets (images, fonts, etc.)
-└── app.json         # Expo configuration file
+└── app.json          # Expo configuration file
 ```
 
 ## 🎯 Key Features

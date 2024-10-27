@@ -7,7 +7,7 @@
 
 ## 🔗 Related Repositories
 - **Frontend**: [clinikally-app](https://github.com/the-r3aper7/clinikally-app)
-- **Backend**: [clinikally-api](https://github.com/your-username/clinikally-api)
+- **Backend**: [clinikally-api](https://github.com/the-r3aper7/clinikally-unstop-api)
 
 ## Screenshots
 <div align="center">

@@ -8,7 +8,7 @@ import {TouchableOpacity} from "react-native"
 
 export type AppStackParams = {
   HomeScreen: undefined;
-  ProductDetailScreen: { productId: number };
+  ProductDetailScreen: { pid: number };
   CartScreen: undefined;
 };
 

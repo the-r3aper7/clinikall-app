@@ -5,6 +5,10 @@
    <img src="https://github.com/user-attachments/assets/0c18c78f-fbbf-4791-838d-ecb06a6521e3" alt="Website Preview" />
 </a>
 
+## 🔗 Related Repositories
+- **Frontend**: [clinikally-app](https://github.com/the-r3aper7/clinikally-app)
+- **Backend**: [clinikally-api](https://github.com/your-username/clinikally-api)
+
 ## Screenshots
 <div align="center">
    <div>
@@ -111,11 +115,22 @@ clinikally-app/
      ```
    - Implemented server-side pagination for optimal API response times
 
-2. **Framework Implementation**
-   - Utilized React Query for efficient server state management
-   - Leveraged Expo framework for cross-platform compatibility
-   - Implemented FastAPI for robust server-side operations
-   - Employed React Context for cart and global application state management
+2. **Frontend**
+    - React Native with Expo
+    - TypeScript
+    - React Query for data fetching
+    - Expo Router for navigation
+    - React Native Reanimated for animations
+
+3. **Backend**
+    - FastAPI
+    - Python
+    - Vercel for deployment
+
+4. **Tools & Libraries**
+    - Expo Vector Icons
+    - React Native Safe Area Context
+    - React Native Gesture Handler
 
 ### Design Decisions
 

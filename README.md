@@ -1,6 +1,9 @@
 # Unstop Clinikally Challenge App
 
-A React Native Expo application for e-commerce product listing and delivery estimation based on pincode verification.
+## Click on the image to open website
+<a href="https://clinikally-api.vercel.app/">
+   <img src="https://github.com/user-attachments/assets/0c18c78f-fbbf-4791-838d-ecb06a6521e3" alt="Website Preview" />
+</a>
 
 ## Screenshots
 <div align="center">
